@@ -166,7 +166,7 @@ def create_html():
         </style>
     </head>
     <body>
-        <h1>🎬 豆瓣 Top 250 光影画廊</h1>
+        <h1>🎬 豆瓣 Top 250 光影画廊-LH</h1>
         
         <div class="search-box">
             <input type="text" id="searchInput" onkeyup="filterMovies()" placeholder="🔍 搜索电影名 / 导演...">
